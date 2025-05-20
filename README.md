@@ -1,6 +1,15 @@
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
+# teste ## teste2
+**bold**
+*italico*
+~~riscado~~
+**a _ssim_ a**
+***tudo***
+<sub>sob</sub>
+<sup>sobre</sup>
+<ins>underline</ins>
 
 ## Welcome
 
